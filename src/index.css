@@ -1,0 +1,148 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Objectivity';
+  src: url('/assets/theme/fonts/Objectivity-Regular.woff2') format('woff2'),
+       url('/assets/theme/fonts/Objectivity-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Objectivity';
+  src: url('/assets/theme/fonts/Objectivity-Medium.woff2') format('woff2'),
+       url('/assets/theme/fonts/Objectivity-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Objectivity';
+  src: url('/assets/theme/fonts/Objectivity-Bold.woff2') format('woff2'),
+       url('/assets/theme/fonts/Objectivity-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Objectivity';
+  src: url('/assets/theme/fonts/Objectivity-ExtraBold.woff2') format('woff2'),
+       url('/assets/theme/fonts/Objectivity-ExtraBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  body {
+    overflow-x: hidden;
+    color: #1e293b;
+    background-color: #ffffff;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #05101a;
+}
+::-webkit-scrollbar-thumb {
+  background: #0ea5e9;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #38bdf8;
+}
+
+/* Navigation active and transition helpers */
+.nav_sec .menu > li > a {
+  position: relative;
+  transition: color 0.25s ease;
+}
+
+.nav_sec .menu > li > a:hover,
+.nav_sec .menu > li.active > a {
+  color: #00b4d8 !important;
+}
+
+/* Dropdown menu animation on desktop only */
+@media (min-width: 992px) {
+  .nav_sec .menu li.menu-item-has-children {
+    position: relative;
+  }
+
+  .nav_sec .menu li .sub-menu {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .nav_sec .menu li:hover > .sub-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile navigation drawer backdrop & submenus */
+@media (max-width: 991.98px) {
+  .nav-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 998;
+    backdrop-filter: blur(2px);
+    transition: opacity 0.3s ease;
+  }
+
+  .nav_and_mail .nav_sec ul li ul.sub-menu.block {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    pointer-events: all !important;
+  }
+
+  .nav_and_mail .nav_sec ul li .arw-nav.actv {
+    transform: rotate(180deg) !important;
+  }
+}
+
+/* Smooth preloader */
+#preloader {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  background-color: #ffffff !important;
+  z-index: 999999 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: opacity 0.4s ease-out !important;
+}
+
+#preloader.preloader-hidden {
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Core Public Pages -->
+  <url>
+    <loc>https://www.gvm.om/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/banner-img-min.jpg</image:loc>
+      <image:title>Global Vessel Management - Trusted Partner at Sea</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/about-us</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/about-banner.png</image:loc>
+      <image:title>About Global Vessel Management</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/services</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/service-banner-1.png</image:loc>
+      <image:title>GVM Maritime Services</image:title>
+    </image:image>
+  </url>
+
+  <!-- Ship Management Service Pages -->
+  <url>
+    <loc>https://www.gvm.om/service/ship-management/tankers</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/service-banner.png</image:loc>
+      <image:title>Tanker Vessel Management</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/ship-management/bulk-carriers</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture1.png</image:loc>
+      <image:title>Bulk Carrier Ship Management</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/ship-management/container-vessels</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture4-1.png</image:loc>
+      <image:title>Container Vessel Management</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/ship-management/leisure</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture7-1.png</image:loc>
+      <image:title>Leisure &amp; Yacht Management</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/ship-management/offshore</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture10-1.png</image:loc>
+      <image:title>Offshore Vessel Operations</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/ship-management/lng</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture14-1.png</image:loc>
+      <image:title>LNG Carrier Fleet Management</image:title>
+    </image:image>
+  </url>
+
+  <!-- Specialized Maritime Service Pages -->
+  <url>
+    <loc>https://www.gvm.om/service/new-building-supervision</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture1-1.png</image:loc>
+      <image:title>New Building Supervision</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/lay-up-management</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture4-1-1.png</image:loc>
+      <image:title>Lay-up Management</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/crew-management</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture11.png</image:loc>
+      <image:title>Crew Management Services</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/technology-and-innovation</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture14.png</image:loc>
+      <image:title>Maritime Technology and Innovation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/service/insurance-and-procurement</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture17.png</image:loc>
+      <image:title>Marine Insurance and Procurement</image:title>
+    </image:image>
+  </url>
+
+  <!-- Sustainability & CSR Pages -->
+  <url>
+    <loc>https://www.gvm.om/sustainability-strategy</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/sustain-banner.png</image:loc>
+      <image:title>GVM Sustainability Strategy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/environmental-solutions</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture2-2.png</image:loc>
+      <image:title>Maritime Environmental Solutions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/our-commitment</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture1-2-1.png</image:loc>
+      <image:title>Our Commitment to Maritime Excellence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/csr</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/Picture7-1.png</image:loc>
+      <image:title>Corporate Social Responsibility (CSR)</image:title>
+    </image:image>
+  </url>
+
+  <!-- Contact & Legal Pages -->
+  <url>
+    <loc>https://www.gvm.om/contact-us</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.gvm.om/assets/uploads/2025/07/contact-banner.png</image:loc>
+      <image:title>Contact Global Vessel Management</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/terms-conditions</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/privacy-policy</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.gvm.om/cookies-policy</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

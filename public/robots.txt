@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /admin/login
+Disallow: /wp-admin
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+
+# Sitemap
+Sitemap: https://www.gvm.om/sitemap.xml

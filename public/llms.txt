@@ -1,0 +1,48 @@
+# Global Vessel Management (GVM) - LLM Discovery File
+# Web: https://www.gvm.om
+# Headquarters: Muscat, Sultanate of Oman
+# Industry: Maritime Fleet Operations, Technical Vessel Management & Creweing
+
+> Global Vessel Management (GVM) is an international ship management company headquartered in Muscat, Sultanate of Oman. GVM provides end-to-end technical ship management, commercial crewing, newbuilding supervision, layup solutions, and maritime environmental compliance services across global shipping corridors.
+
+## Core Operations & Managed Fleets
+- Tanker Management: Crude oil carriers (Aframax, Suezmax, VLCC, ULCC), product tankers, chemical carriers, and LNG/LPG tonnage complying with OCIMF SIRE 2.0 and TMSA 3 protocols.
+- Dry Bulk Carriers: Handysize, Panamax, Capesize, and VLOC vessels carrying grain, ore, minerals, and industrial bulk.
+- Container Vessels: Feeder, Panamax, Post-Panamax, and Ultra Large Container Vessels (ULCV) up to 24,000+ TEU.
+- Specialized & Offshore: Platform Supply Vessels (PSVs), Anchor Handling Tug Supply (AHTS), drillships, and offshore construction tonnage.
+- Leisure & Luxury: Superyachts, passenger liners, and private cruise vessels.
+
+## Specialized Technical & Environmental Services
+- New Building Supervision: Initial design review, shipyard quality control, fabrication inspection, and delivery trials.
+- Lay-up Management: Hot and cold lay-up management preserving vessel machinery, hull integrity, and rapid reactivation readiness.
+- Crew Management: Global recruitment, STCW certification, seafarer training, travel logistics, and wellbeing frameworks.
+- Technology & Innovation: Predictive maintenance analytics, IoT telemetry, voyage optimization, and remote diagnostics.
+- Environmental Solutions: EEXI assessments, Carbon Intensity Indicator (CII) compliance, biofouling mitigation, ballast water systems, and IMO 2030/2050 decarbonization alignment.
+- Insurance & Procurement: Hull & Machinery (H&M), Protection & Indemnity (P&I), War Risk, and competitive global marine spare parts procurement.
+
+## Corporate Contact & Office Details
+- Headquarters: Muscat, Sultanate of Oman
+- Telephone: +968 71770077
+- Corporate Inquiries: Info@gvm.om
+- Website: https://www.gvm.om
+
+## Verified Public URLs
+- https://www.gvm.om/ (Home)
+- https://www.gvm.om/about-us (Corporate Governance & Leadership)
+- https://www.gvm.om/services (Full Services Portfolio)
+- https://www.gvm.om/service/ship-management/tankers (Tankers)
+- https://www.gvm.om/service/ship-management/bulk-carriers (Bulk Carriers)
+- https://www.gvm.om/service/ship-management/container-vessels (Container Ships)
+- https://www.gvm.om/service/ship-management/leisure (Leisure & Yachts)
+- https://www.gvm.om/service/ship-management/offshore (Offshore Fleet)
+- https://www.gvm.om/service/ship-management/lng (LNG & Dual-Fuel Carriers)
+- https://www.gvm.om/service/new-building-supervision (Newbuilding Supervision)
+- https://www.gvm.om/service/lay-up-management (Lay-up Management)
+- https://www.gvm.om/service/crew-management (Crew Management)
+- https://www.gvm.om/service/technology-and-innovation (Maritime Technology)
+- https://www.gvm.om/service/insurance-and-procurement (Insurance & Procurement)
+- https://www.gvm.om/sustainability-strategy (Decarbonization Roadmap)
+- https://www.gvm.om/environmental-solutions (Environmental Compliance)
+- https://www.gvm.om/our-commitment (Quality & Safety Pledge)
+- https://www.gvm.om/csr (Corporate Social Responsibility)
+- https://www.gvm.om/contact-us (Official Contact Details)
